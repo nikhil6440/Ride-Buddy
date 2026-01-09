@@ -84,7 +84,7 @@ Ride Buddy is a user-centric mobility app focused on simplifying ride discovery 
 The project strengthened my skills in UX research, wireframing, and designing intuitive user flows.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/nikhil6440/Ride-Buddy/blob/11ead655b25a127dc8e5244b2b386085ec20fbc7/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
