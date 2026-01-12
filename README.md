@@ -139,9 +139,9 @@ These activities strengthened empathy, teamwork, and civic awareness.
 
 
 <div align="center">
-<img src="https://github.com/nikhil6440/Ride-Buddy/blob/2f3fb8f0c5a84b49507224d507c06a64197a9c51/assets/IMG%201.png">
-<img src="https://github.com/nikhil6440/Ride-Buddy/blob/2f3fb8f0c5a84b49507224d507c06a64197a9c51/assets/IMG%202.png">
-<img src="https://github.com/nikhil6440/Ride-Buddy/blob/2f3fb8f0c5a84b49507224d507c06a64197a9c51/assets/IMG%203.png">
+<img src="https://github.com/nikhil6440/Ride-Buddy/blob/main/assets/IMG%201.png">
+<img src="https://github.com/nikhil6440/Ride-Buddy/blob/main/assets/IMG%202.png">
+<img src="https://github.com/nikhil6440/Ride-Buddy/blob/main/assets/IMG%203.png">
 </div>
 
 ---
